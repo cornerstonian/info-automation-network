@@ -10,7 +10,7 @@ This project demonstrates how **systems thinking**, **automation**, and **struct
 
 I built a fully automated, no-code/low-code system that curates and distributes content across a network of 15+ Telegram channels, pulling from 300+ trusted sources. Topics are organized into distinct themes for **focused delivery**.
 
-Beyond the technical achievement, it’s a tool for **intentional information consumption**. Instead of drinking from a firehose, this system lets me **control the pressure**.
+Beyond the technical achievement, it’s a tool for **intentional information consumption**. Instead of drinking from a firehose, this system lets me **control the pressure**. I needed a way to rapidly consume high-quality, low-noise updates on critical topics and personal intererests like cybersecurity, the hip-hop industry, cloud, major tech developments and even entertainment and interests. Newsletters are noisy, and social feeds are inconsistent. So I built my own system of curated newsflows, I call Galaxies, delivered to me in real time.
 
 ---
 
