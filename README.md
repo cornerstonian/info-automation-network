@@ -16,12 +16,17 @@ Beyond the technical achievement, it’s a tool for **intentional information co
 
 ### 🧰 Tech Stack
 
-- **IFTTT** – no-code automation engine
-- **Airtable** – for data structuring + curation
-- **Telegram API** (no-code)
-- **RSS** – news, blogs, official feeds
-- **Manual review** + logic layering
-- **Fully no-code/low-code framework**
+* **IFTTT** – no-code automation engine
+* **[Airtable](https://airtable.com/app05bkDJYe0QlzpQ/shrc39DY82sHIMNj4)** – for data structuring + curation
+* **Telegram API** (no-code)
+* **RSS** – news, blogs, official feeds
+* **Manual review** + logic layering
+* **Fully no-code/low-code framework**
+
+---
+
+Let me know if you’d like to add a short label or context next to the link (e.g., “View database”).
+
 
 ---
 
@@ -134,8 +139,9 @@ If new item in `microsoft.com/security/blog`, then post to `@CybersecurityUniver
     🔗 [t.me/dronescience](https://t.me/dronescience)
 
 ---
+
 ### 📫 Contact / Collaborate
 
 This project is part of my **daily workflow** and continues to evolve.
 
-If you'd like access to the system, a custom channel, or want help building your own **automated curation network**, feel free to reach out.
+If you'd like [**access to the system**](https://airtable.com/app05bkDJYe0QlzpQ/shrc39DY82sHIMNj4), a custom channel, or want help building your own **automated curation network**, feel free to reach out.
