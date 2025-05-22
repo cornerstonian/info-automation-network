@@ -1,6 +1,6 @@
 # 🔄 Telegram Galaxies: Information Automation Network
 
-Telegram Galaxies is a **no-code/low-code automation system** that curates real-time, high-quality content across multiple topics from over **300 trusted sources**—including RSS feeds, YouTube channels, and Twitter accounts—into a network of **15+ themed Telegram channels**.
+Telegram Galaxies is a **no-code/low-code automation system** that curates real-time, high-quality content across multiple topics from over **300 trusted sources**—including RSS feeds, YouTube channels, and X (Twitter) accounts—into a network of **15+ themed Telegram channels**.
 
 This project demonstrates how **systems thinking**, **automation**, and **structured data workflows** can deliver real-world value without traditional software development.
 
@@ -27,7 +27,7 @@ Beyond the technical achievement, it’s a tool for **intentional information co
 
 ### 🔧 Key Features
 
-- **Smart Aggregation**: Pulls from 300+ sources (RSS, YouTube, Twitter) into a centralized ecosystem
+- **Smart Aggregation**: Pulls from 300+ sources (RSS, YouTube, X) into a centralized ecosystem
 - **Topic-Based Distribution**: Divides content into thematic Telegram channels—**no noise, just signal**
 - **Fully Automated**: Uses IFTTT + Telegram for hands-free content flow
 - **Scalable Architecture**: Easy to update with new sources and formats
@@ -57,12 +57,12 @@ If new item in `microsoft.com/security/blog`, then post to `@CybersecurityUniver
 
 ---
 
-### 🌐 Content Sources
+### 🌐 Content Sources via IFTTT
 
 - RSS feeds (official blogs, threat intel, news outlets)
 - YouTube uploads & playlists
-- Twitter accounts (via IFTTT)
-
+- X (accounts
+- Reddit threads
 ---
 
 1. **📡 NetCloudSec**<br>
