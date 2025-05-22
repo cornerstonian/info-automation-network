@@ -1,6 +1,6 @@
 # 🔄 Telegram Galaxies: Information Automation Network
 
-A **no-code/low-code automation system** that curates real-time, high-quality content across multiple topics from over **300 trusted sources**—including RSS feeds, YouTube channels, and Twitter accounts—into a network of **15+ themed Telegram channels**.
+Telegram Galaxies is a **no-code/low-code automation system** that curates real-time, high-quality content across multiple topics from over **300 trusted sources**—including RSS feeds, YouTube channels, and Twitter accounts—into a network of **15+ themed Telegram channels**.
 
 This project demonstrates how **systems thinking**, **automation**, and **structured data workflows** can deliver real-world value without traditional software development.
 
