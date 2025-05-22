@@ -25,11 +25,6 @@ Beyond the technical achievement, it’s a tool for **intentional information co
 
 ---
 
-Let me know if you’d like to add a short label or context next to the link (e.g., “View database”).
-
-
----
-
 ### 🔧 Key Features
 
 - **Smart Aggregation**: Pulls from 300+ sources (RSS, YouTube, Twitter) into a centralized ecosystem
