@@ -17,7 +17,7 @@ Beyond the technical achievement, it’s a tool for **intentional information co
 ### 🧰 Tech Stack
 
 * **IFTTT** – no-code automation engine
-* **[Airtable](https://airtable.com/app05bkDJYe0QlzpQ/shrc39DY82sHIMNj4)** – for data structuring + curation
+* **[Airtable](https://airtable.com/app05bkDJYe0QlzpQ/shrc39DY82sHIMNj4)** – for database for structuring + curation
 * **Telegram API** (no-code)
 * **RSS** – news, blogs, official feeds
 * **Manual review** + logic layering
@@ -137,6 +137,16 @@ If new item in `microsoft.com/security/blog`, then post to `@CybersecurityUniver
 17. **🚁 Drone Science**<br>
     *Topic:* Drone Racing, Flying, Culture, Learning<br>
     🔗 [t.me/dronescience](https://t.me/dronescience)
+
+---
+
+**[🔗Airtable Channel Directory Screenshot (link to real time Airtable database here) ](https://airtable.com/app05bkDJYe0QlzpQ/shrc39DY82sHIMNj4)** <br>  
+
+![Information Automation Airtable Screenshot](images/airtable-info-automation-screenshot.jpg)<br>
+<br>
+
+**Live Telegram Channel Screenshot** <br>
+![Telegram Channels Screenshot](images/info-auto-telegram-rss-project-screenshot.jpg)<br>
 
 ---
 
